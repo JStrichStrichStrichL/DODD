@@ -1,1 +1,42 @@
+1. Controller
+Bettertrack is provided by Enoon Enigmatic
+2. Data Collection
+2.1 Data You Provide
+Personal mood data
+Reasons for your mood
+Goals and progress
+Name (optional)
+2.2 Automatically Collected Data
+Usage data (app usage frequency)
+Device information (operating system, device model)
+Crash reports
+3. Data Storage
+All mood data is stored exclusively on your device. We have no access to this data.
+4. Data Usage
+We use your data exclusively for:
+Providing app features
+Improving the app experience
+Processing in-app purchases
+5. Permissions
+Internet access: For in-app purchases and error reporting
+Notifications: For reminders
+Storage access: For importing/exporting data
+Boot at system startup: For reminder notifications
+6. Sharing of Data
+We do not share your data with third parties, except:
+Google Play for processing in-app purchases
+When legally required
+7. Data Security
+We implement appropriate technical measures to protect your data.
+8. Your Rights
+You have the right to:
+Access
+Correction
+Deletion
+Restriction of processing
+Data portability
+Objection
+9. Changes
+We reserve the right to update this privacy policy as needed. Changes will be announced in the app and on the Play Store.
 
+Last updated: 28.04.2025
